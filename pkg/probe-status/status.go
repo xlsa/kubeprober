@@ -27,7 +27,7 @@ import (
 	"github.com/sirupsen/logrus"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 
-	kubeproberv1 "github.com/erda-project/kubeprober/apis/v1"
+	kubeproberv1 "github.com/xlsa/kubeprober/apis/v1"
 )
 
 const (

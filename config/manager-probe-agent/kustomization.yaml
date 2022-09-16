@@ -1,6 +1,0 @@
-resources:
-- manager.yaml
-- rbac.yaml
-
-generatorOptions:
-  disableNameSuffixHash: true
